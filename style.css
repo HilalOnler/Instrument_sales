@@ -2,6 +2,6 @@
     color: rgb(185, 166, 118);
 }
 .content {
-    margin: 20px auto; /* Ortalanmış içerik */
+    margin: 10px auto; /* Ortalanmış içerik */
     max-width: 800px; /* İçerik genişliği sınırlandırılmış */
 }
