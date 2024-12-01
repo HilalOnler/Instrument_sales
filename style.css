@@ -2,7 +2,7 @@
     color: rgb(185, 166, 118);
 }
 .content {
-    text-align: center;
+    text-align: justify;
     margin: 20px auto; /* Ortalanmış içerik */
     max-width: 800px; /* İçerik genişliği sınırlandırılmış */
 }
