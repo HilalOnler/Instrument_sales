@@ -2,6 +2,6 @@
     color: rgb(185, 166, 118);
 }
 .content {
-    margin: 10px auto; /* Ortalanmış içerik */
-    max-width: 800px; /* İçerik genişliği sınırlandırılmış */
+    text-align: justify; /* İçeriği düzgün hizalar */
+    padding: 0 15px; /* Sağ ve Sol boşluk ekler */
 }
